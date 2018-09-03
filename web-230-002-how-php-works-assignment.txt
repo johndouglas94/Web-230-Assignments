@@ -1,0 +1,17 @@
+WEB-230 | How PHP Works – Server Side Scripting – Assignment
+
+  1. The server-side is known as the back-end and the client-side is known as the front-end. What is being viewed by the
+     browser is happening on the client-side whereas the processing of data to be shown on the browser is happening on the
+     server-side. 
+     
+  2. Programming languages like HTML need to be compiled before running but scripting languages like PHP do not need
+     compilation. Scripting languages are able to run inside of other programs as opposed to programming which can not.
+     
+  3. PHP is a scripting language that runs in the background of websites. PHP delivers customized responses to the
+     client.
+     
+  4. The client makes a request to the browser or website such as a log-in. The server clarifies the user information and 
+     returns the appropiate data back to the client. 
+     
+  5. The differences between post types are what you the client are seeing. Depending on the kind of request you make to the 
+     server, that's the result you get back. 
