@@ -2,6 +2,10 @@
 
 ?>
 
+1. //The action attribute is the place in which the form data is going to go. What it does is define a destination of data submitted by 
+the user.
+2. //The method attribute is how the data is going to be received by the user. What it does is gets thw input data by
+the user and diplays it in the url. 
 <form action="index.php" method="GET">
     Day:<br><input type="text" name="day"><br>
     Date:<br><input type="text" name="date"><br>
