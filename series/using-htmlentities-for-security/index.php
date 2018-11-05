@@ -1,5 +1,6 @@
 <?php
 
+// 1. What htmlentities is doing is providing security so users can't input curtain types of data. 
 if (isset($_GET['day'])&&isset($_GET['date'])&&isset($_GET['year'])) {
   $day = htmlentities($_GET['day']);
   $date = htmlentities($_GET['date']);
