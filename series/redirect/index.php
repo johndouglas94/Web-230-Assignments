@@ -6,7 +6,7 @@ $redirect_page = 'http://google.com';
 $redirect = true;
 
 if ($redirect==true) {
-   1. What is happening here is the header is forcing the page to redirect the user to the goolge home page.
+   // 1. What is happening here is the header is forcing the page to redirect the user to the goolge home page.
    header('Location: '.$redirect_page);
  }
 ?>
